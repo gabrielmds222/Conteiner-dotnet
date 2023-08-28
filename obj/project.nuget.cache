@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ws+r/0htY43oCUxkqVRJ02RM3pRsL+7irHysliDTMaRyc+AXao/EVpRuPneD8LjDzcDeu5hDSx7IZalVV+QInA==",
+  "dgSpecHash": "L8q6cWnKitHFFUmHdXklX24kdPiPNAQB2Pf8+Gkv9R1SlAy3iTZe6Xq0HQDjOTR43VamyKn6eTpQwF5H9RlT7g==",
   "success": true,
-  "projectFilePath": "/home/gabrielmds222/Conteiner-dotnet/Conteiner-dotnet.csproj",
+  "projectFilePath": "/home/gabrielmds222/Projetos/Conteiner-dotnet/Conteiner-dotnet.csproj",
   "expectedPackageFiles": [
     "/home/gabrielmds222/.nuget/packages/azure.core/1.24.0/azure.core.1.24.0.nupkg.sha512",
     "/home/gabrielmds222/.nuget/packages/azure.identity/1.6.0/azure.identity.1.6.0.nupkg.sha512",

@@ -3926,11 +3926,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gabrielmds222/Conteiner-dotnet/Conteiner-dotnet.csproj",
+      "projectUniqueName": "/home/gabrielmds222/Projetos/Conteiner-dotnet/Conteiner-dotnet.csproj",
       "projectName": "Conteiner-dotnet",
-      "projectPath": "/home/gabrielmds222/Conteiner-dotnet/Conteiner-dotnet.csproj",
+      "projectPath": "/home/gabrielmds222/Projetos/Conteiner-dotnet/Conteiner-dotnet.csproj",
       "packagesPath": "/home/gabrielmds222/.nuget/packages/",
-      "outputPath": "/home/gabrielmds222/Conteiner-dotnet/obj/",
+      "outputPath": "/home/gabrielmds222/Projetos/Conteiner-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gabrielmds222/.nuget/NuGet/NuGet.Config"
